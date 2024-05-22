@@ -1,0 +1,18 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin-bottom: 60px; /* Margin bottom by footer height */
+}
+
+a {
+  cursor:pointer;
+  color:blue;
+  text-decoration:underline;
+}
+
+a:hover {
+  text-decoration:none;
+  text-shadow: 1px 1px 1px #555;
+}
